@@ -1,0 +1,11 @@
+{
+  "name": "LiveKit WebRTC Server & Studio",
+  "description": "LiveKit WebRTC SFU Server implementation with Twirp room management APIs, JWT access token minting, real-time audio/video conference studio, and telemetry dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
